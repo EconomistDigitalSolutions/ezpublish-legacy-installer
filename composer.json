@@ -1,7 +1,7 @@
 {
-    "name": "ezsystems/ezpublish-legacy-installer",
+    "name": "EconomistDigitalSolutions/ezpublish-legacy-installer",
     "type": "composer-plugin",
-    "description": "Installer for eZ Publish legacy extensions and legacy kernel itself.",
+    "description": "Economist hacked Installer for eZ Publish legacy extensions and legacy kernel itself.",
     "license": "GPL-2.0",
     "minimum-stability": "dev",
     "authors": [
@@ -12,6 +12,14 @@
         {
             "name": "Gaetano Giunta",
             "email": "gaetano.giunta@ez.no"
+        },        
+        {
+            "name": "Martin Sabol",
+            "email": "martin.sabol@globallogic.com"
+        },
+        {
+            "name": "Jujhar Singh",
+            "email": "jujharsingh@economist.com"
         }
     ],
     "autoload": {

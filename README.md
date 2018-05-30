@@ -5,6 +5,8 @@ This installer lets you install extensions for eZ Publish legacy (4.x) with [Com
 It also helps you install eZ Publish legacy (4.x) itself, by not deleting your settings and custom code
 when you upgrade to a new release.
 
+Forked from https://github.com/ezsystems/ezpublish-legacy-installer on 2018-05-30
+
 ## Installable extensions
 To be able to install a legacy extension, it must be properly exposed to Composer with a valid composer.json file
 (check [Composer documentation](http://getcomposer.org/doc/) for more information), declaring an `ezpublish-legacy-extension` type.
